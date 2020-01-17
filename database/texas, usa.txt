@@ -1,0 +1,55 @@
+<video class="media-video" src="media/Corn Seed Germination_HD.mp4" controls="controls">
+				Your brwoser doesn't support videos...Oops
+			</video>
+			<ul>
+				<li>Most corn growers throughout the state apply soil insecticides, pre-emergence herbicides, and starter fertilizers at planting. </li><br>
+				<li>Corn grows best in soil with a pH between 5.8 and 6.8.</li><br>
+				<li>Avoid tillage and planting when soils are wet. A field is ready for seed bed preparation when soil in the depth of tillage crumbles when squeezed.</li><br>
+			</ul>
+
+			<ol>
+				<b><li>Land Selection:</li></b>
+				<p>
+					Select a land site for planting where the soil is a deep, well-drained, medium to coarse textured light sandy loam soil.
+				</p><br>
+				<!-- list item -->
+				<b><li>Hybrid Seed Selection</li></b>
+				<p>
+					Chose a hybrid seed according to factors of yield, maturity time, stay green, lodging, shuck cover, ear placement, disease and insect resistance. 
+					We recommend Pioneer 31B13 for you based on your location.
+				</p><br>
+				<!-- list item				 -->
+				<b><li>Addition of Fertilizer</li></b>
+				<p>
+					Check soil temperature and if soil is at suitable warm temperature of near 50 °F , then add nitrogen-rich fertilizer to soil as it is ideal for corn-growing conditions.
+				</p><br>
+				<!-- list item -->
+				<b><li>Seedbed Preparation</li></b>
+				<p>
+					Prepare raised beds for planting. 
+					This can be done with the Fiskars’ Big Grip Cultivator.
+				</p><br>
+				<!-- list item -->
+				<b><li>Pre-planting seed preparation</li></b>
+				<p>
+					Dust the Corn seeds in seed pesticides to protect it against seed related pests.
+				</p><br>
+				<!-- list item -->
+				<b><li>Corn Seed Planting</li></b>
+				<p>
+					For early plantings, sow seeds only 1 inch deep.
+					<br><br>
+					In the hot weather of midsummer, plant them up to 2 inches deep.
+					<br><br>
+					Make sure Seed should be spaced as uniformly as possible within the row to ensure maximum yields, regardless of plant population and planting date.
+					<br><br>
+					This can be done with a mechanical planting machine.
+					<br><br>
+					The best way to promote complete pollination is to plant corn in blocks rather than long individual rows. A block should be at least three rows wide. If you plant only one or two rows, hand pollinate to improve kernel formation is limited.
+				</p><br>
+				<!-- list item -->
+				<b><li>Watering Planted Corn Seeds</li></b>
+				<p>
+					Use either a garden hose or your irrigation system to water the freshly planted Corn seeds. An inch of water is adequate.
+				</p><br>
+			</ol>
