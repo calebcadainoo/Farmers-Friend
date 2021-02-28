@@ -1,0 +1,57 @@
+			
+			<video class="media-video" src="media/Corn Seed Germination_HD.mp4" controls="controls">
+				Your brwoser doesn't support videos...Oops
+			</video>
+			<ol>
+				<!-- list item -->
+				<b><li>Selecting Your Site For Your Maize Farm </li></b>
+				<p>
+					Avoid sites with trees, ant hills, shady areas, hard pans, and compacted soils, muddy and clayey soils for good yields. 
+				</p>
+				<br>
+				<!-- list item -->
+				<b><li>Selecting Your Site For Your Maize Farm </li></b>
+				<p>
+					Avoid sites with trees, ant hills, shady areas, hard pans, and compacted soils, muddy and clayey soils for good yields. 
+				</p>
+				<br>
+				<!-- list item -->
+				<b><li>Check the Soil Type of Selected Site</li></b>
+				<p>
+					We recommend planting the maize in well-drained, well-aerated, deep warm loams and silt loams containing adequate organic matter and well supplied with available nutrients. 
+				</p><br>
+				<!-- list item -->
+				<b><li>Check the Soil Temperature of Selected Site </li></b>
+				<p>
+					The optimum temperature for plant growth and development ranges from 30&deg;C to 34&deg;C. So make sure soil is warm enough but not too hot before planting.
+				</p><br>
+				<!-- list item -->
+				<b><li>Prepare your Seedbed </li></b>
+				<p>
+					Use a plough or tine implement to create seedbeds needed for planting. If your soil is too sandy, then we do not recommend ploughing due to erosion.
+					Ensure seedbed is firm and weed free.
+				</p><br>
+				<!-- list item -->
+				<b><li>Fertilizing your seedbed</li></b>
+				<p>
+					Apply compost or organic manure 3 to 4 weeks to your seedbeds before your set planting date to ensure your soil is well fertilized.
+				</p><br>
+				<!-- list item -->
+				<b><li>Selecting your seed variety type</li></b>
+				<p>
+					Select the appropriate seed variety type based on factors such as potential yield, tolerance to drought, intended use, disease resistance and length of growth season. We recommend "Grace" or "ZM521" seed variety type.
+				</p><br>
+				<!-- list item -->
+				<b><li>Check Seed quality for planting </li></b>
+				<p>
+					It is important to test the germination and vigor of your planting seed before sowing. The following processes should be undertaken: 
+					First look at seed for signs of weathering, disease or physical damage. 2 weeks before sowing, it is advisable to do your own germination test in soil. Seed should be plump and free from visible damage such as broken seed coats.
+				</p><br>
+				<!-- list item -->
+				<b><li>How Deep You Should Plant Maize Seeds </li></b>
+				<p>
+					Planting and basal fertilizer application is recommended at the same time. The depth of planting should be 5cm deep and for fertilizer 10cm deep.
+					Deep seed placement under dry planting is recommended so that seed germinate only after adequate rains have fallen. However the depth of planting should be uniform to allow uniform plant growth.
+					With machine planting, a fine seedbed is necessary to avoid interference from large clods. 
+				</p><br>
+			</ol>
